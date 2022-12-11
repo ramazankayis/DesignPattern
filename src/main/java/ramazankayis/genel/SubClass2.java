@@ -8,6 +8,7 @@ public class SubClass2 extends Access {
 
         Access access = new Access();
         //  access.isimSoyisim;
+        access.getMemleket();
         System.out.println(access.isimSoyisim);
     }
 }
