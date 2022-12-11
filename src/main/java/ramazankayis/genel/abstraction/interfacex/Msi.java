@@ -14,7 +14,7 @@ public class Msi implements IBilgisayar{
     }
 
     @Override
-    public void bilgisayarUretim(Date tarih) {
+    public void bilgisayarUretim22(Date tarih) {
 
     }
 }
